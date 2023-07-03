@@ -29,6 +29,11 @@
 - DB : MySQL
 - Server : Apache
 
+## 🔭 ERD
+<img src='[https://github.com/AnSeonJeong/final-dalrun-front/assets/98884055/7f83a457-c7d0-4b39-8b82-81b7843be12b](https://github.com/XCEVOR/final-dalrun-back/assets/97342269/2cf6100b-70ea-4cc1-9878-e23ba6aaa54b)' width=300px text-align='center' />
+
+<br>
+
 ## 📚 주요 기능
 #### 1. 도트맵 
 - 크루 혹은 개인이 땅을 구매할 수 있는 페이지 
