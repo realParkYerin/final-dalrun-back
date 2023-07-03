@@ -33,6 +33,7 @@
 <img src='https://github.com/XCEVOR/final-dalrun-back/assets/97342269/2cf6100b-70ea-4cc1-9878-e23ba6aaa54b' width=500px text-align='center' />
 
 <br>
+<br>
 
 ## 📚 주요 기능
 #### 1. 도트맵 
