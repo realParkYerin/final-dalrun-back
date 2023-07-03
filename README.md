@@ -30,7 +30,7 @@
 - Server : Apache
 
 ## 🔭 ERD
-<img src='[https://github.com/AnSeonJeong/final-dalrun-front/assets/98884055/7f83a457-c7d0-4b39-8b82-81b7843be12b](https://github.com/XCEVOR/final-dalrun-back/assets/97342269/2cf6100b-70ea-4cc1-9878-e23ba6aaa54b)' width=300px text-align='center' />
+<img src='https://github.com/XCEVOR/final-dalrun-back/assets/97342269/2cf6100b-70ea-4cc1-9878-e23ba6aaa54b' width=300px text-align='center' />
 
 <br>
 
